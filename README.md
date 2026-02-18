@@ -25,10 +25,6 @@ me.sayHi()
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/zelentsov-dev/asc-mcp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zelentsov-dev&repo=asc-mcp&theme=dark" />
-</a>
-
 **[asc-mcp](https://github.com/zelentsov-dev/asc-mcp)** — MCP server for App Store Connect API with 208 tools. Manage apps, builds, TestFlight, subscriptions, and more from Claude or any MCP client.
 
 [![Swift](https://img.shields.io/badge/Swift-6.2+-F05138?logo=swift&logoColor=white)](https://github.com/zelentsov-dev/asc-mcp) [![MCP](https://img.shields.io/badge/MCP-compatible-4A90D9)](https://modelcontextprotocol.io) [![MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/zelentsov-dev/asc-mcp/blob/main/LICENSE)
