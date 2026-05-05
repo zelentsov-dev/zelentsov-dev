@@ -27,22 +27,15 @@ me.sayHi()
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/zelentsov-dev/asc-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zelentsov-dev&repo=asc-mcp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/zelentsov-dev/clipsnap-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zelentsov-dev&repo=clipsnap-mcp&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/zelentsov-dev/SwiftAssistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zelentsov-dev&repo=SwiftAssistant&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/zelentsov-dev/SMSHubAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zelentsov-dev&repo=SMSHubAPI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### 🤖 MCP Servers
+
+- **[asc-mcp](https://github.com/zelentsov-dev/asc-mcp)** — MCP server for App Store Connect API. 208 tools to manage apps, builds, TestFlight, subscriptions, and more from Claude, Cursor, VS Code, or any MCP client. ![Stars](https://img.shields.io/github/stars/zelentsov-dev/asc-mcp?style=social)
+- **[clipsnap-mcp](https://github.com/zelentsov-dev/clipsnap-mcp)** — Fix broken clipboard image paste in iTerm2 for Claude Code. Real-time Swift clipboard watcher. ![Stars](https://img.shields.io/github/stars/zelentsov-dev/clipsnap-mcp?style=social)
+
+### 📚 Swift Libraries
+
+- **[SwiftAssistant](https://github.com/zelentsov-dev/SwiftAssistant)** — Swift library for OpenAI Assistants API. Create assistants, manage messages, handle AI runs. ![Stars](https://img.shields.io/github/stars/zelentsov-dev/SwiftAssistant?style=social)
+- **[SMSHubAPI](https://github.com/zelentsov-dev/SMSHubAPI)** — Swift wrapper for SMSHub virtual number service. ![Stars](https://img.shields.io/github/stars/zelentsov-dev/SMSHubAPI?style=social)
 
 [![Swift](https://img.shields.io/badge/Swift-6.2+-F05138?logo=swift&logoColor=white)](https://github.com/zelentsov-dev) [![MCP](https://img.shields.io/badge/MCP-compatible-4A90D9)](https://modelcontextprotocol.io) [![MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/zelentsov-dev)
 
@@ -51,8 +44,8 @@ me.sayHi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelentsov-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelentsov-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zelentsov-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zelentsov-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
