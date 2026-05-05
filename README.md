@@ -62,6 +62,16 @@ me.sayHi()
 
 ---
 
+## 🌐 Contribution Graph in 3D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zelentsov-dev/zelentsov-dev/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zelentsov-dev/zelentsov-dev/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/zelentsov-dev/zelentsov-dev/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+---
+
 ## 🔧 Technologies & Tools
 
 <p align="center">
