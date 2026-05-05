@@ -44,8 +44,7 @@ me.sayHi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zelentsov-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zelentsov-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zelentsov-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -54,10 +53,6 @@ me.sayHi()
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zelentsov-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelentsov-dev&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
